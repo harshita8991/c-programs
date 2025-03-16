@@ -110,5 +110,12 @@ c. Transpose
 
 ![Screenshot 2025-03-17 004343](https://github.com/user-attachments/assets/a94bfeeb-e6b2-4f50-8706-e52cce73b369)
 
+# PROGRAM 12
+
+![image](https://github.com/user-attachments/assets/88cdf88f-525c-4805-bd17-2f91c635fa10)
+
+![image](https://github.com/user-attachments/assets/2e54e4f9-5097-4094-9b69-9a7d0080f26a)
+
+
 
 
