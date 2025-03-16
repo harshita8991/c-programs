@@ -54,6 +54,41 @@
 
 ![Screenshot 2025-03-16 232836](https://github.com/user-attachments/assets/e26d3fbe-bd7f-48ef-915a-35d990861cb5)
 
+# PROGRAM 6
+# Write a program to search a given element in a set of N numbers using Binary search
+(i) with recursion 
+
+(ii) without recursion.
+
+![Screenshot 2025-03-16 235310](https://github.com/user-attachments/assets/2c300452-ec1b-463a-9ada-12b8acf05b56)
+![image](https://github.com/user-attachments/assets/9dbfd872-0124-4b0c-87b8-a230c0aa0e50)
+
+![image](https://github.com/user-attachments/assets/230c44ad-b111-42b7-bdb0-9911670f56c2)
+
+# PROGRAM 7
+# Write a program to calculate GCD of two numbers 
+(i) with recursion
+
+(ii) without recursion.
+![image](https://github.com/user-attachments/assets/3273e458-1357-487b-a758-028de8416737)
+
+![Screenshot 2025-03-17 000101](https://github.com/user-attachments/assets/1670aab5-8783-4fdf-935b-c84c006c2b59)
+
+# PROGRAM 8
+#  Create a Matrix class. Write a menu-driven program to perform following Matrix operations (exceptions should be thrown by the functions if matrices passed to them are incompatible and handled by the main() function):
+a. Sum
+
+b. Product
+
+c. Transpose
+
+![image](https://github.com/user-attachments/assets/ffc68fed-4ae0-4a1b-98da-28cd2b900cd1)
+![image](https://github.com/user-attachments/assets/6176634c-5e41-421b-aaff-bc8065a99f13)
+![image](https://github.com/user-attachments/assets/ac1def6b-6072-47f5-bdf2-90a7f9113451)
+
+![image](https://github.com/user-attachments/assets/b37da835-a73b-4b4d-8177-a8f8e4245c12)
+
+
   
 
 
