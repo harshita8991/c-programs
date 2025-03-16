@@ -88,7 +88,27 @@ c. Transpose
 
 ![image](https://github.com/user-attachments/assets/b37da835-a73b-4b4d-8177-a8f8e4245c12)
 
+# PROGRAM 9
+#  Create a Triangle class. Add exception handling statements to ensure the following conditions: all sides are greater than 0 and sum of any two sides are greater than the third side. The class should also have overloaded functions for calculating the area of a right angled triangle as well as using Heron's formula to calculate the area of any type of triangle.Overload equality and assignment operator.
 
-  
+![image](https://github.com/user-attachments/assets/700f4177-13ed-42fb-aa40-886aace6cc27)
+![Screenshot 2025-03-17 002250](https://github.com/user-attachments/assets/e24674f3-080d-4311-a1d1-5969e584ee4c)
+
+![image](https://github.com/user-attachments/assets/257008a7-0671-46f2-bc7e-79fc6b14dfb9)
+
+# PROGRAM 10
+# Define a class Person having name as a data member. Inherit two classes Student and Employee from Person. Student has additional attributes as course, marks and year and Employee has department and salary. Write display() method in all the three classes to display the corresponding attributes. Provide the necessary methods to show runtime polymorphism.
+
+![image](https://github.com/user-attachments/assets/8c8ffa6d-0ed6-46c4-8f2c-c88793c57702)
+![Screenshot 2025-03-17 002856](https://github.com/user-attachments/assets/fad2d7be-de1b-45e6-9857-4444e4c199a0)
+
+![image](https://github.com/user-attachments/assets/ce49f0ad-732e-4a53-a150-2179a75c47b4)
+
+# PROGRAM 11
+
+![image](https://github.com/user-attachments/assets/415deb4f-68e4-4bb5-a723-91e0df9564f9)
+
+![Screenshot 2025-03-17 004343](https://github.com/user-attachments/assets/a94bfeeb-e6b2-4f50-8706-e52cce73b369)
+
 
 
