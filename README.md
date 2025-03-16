@@ -116,6 +116,8 @@ c. Transpose
 
 ![image](https://github.com/user-attachments/assets/2e54e4f9-5097-4094-9b69-9a7d0080f26a)
 
+# PROGRAM13
 
+![image](https://github.com/user-attachments/assets/09e4a5f7-8dec-40b0-83a5-05373c7dabfe)
 
 
