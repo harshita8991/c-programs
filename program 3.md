@@ -29,7 +29,7 @@ int main() {
     return 0;
 }
 ```
+![image](https://github.com/user-attachments/assets/2865a499-0c6b-4818-b858-54d22440f595)
 
-![Screenshot 2025-03-16 220622](https://github.com/user-attachments/assets/4c57cbf8-2516-4d4c-93d3-08cc47f31e20)
+![image](https://github.com/user-attachments/assets/f4a6b533-9182-4079-8eb8-7ff32164cd61)
 
-![Screenshot 2025-03-16 223010](https://github.com/user-attachments/assets/464f5bf2-f451-451c-9979-c678733b4279)
