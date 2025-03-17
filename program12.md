@@ -102,6 +102,9 @@ int main() {
     return 0;
 }
 ```
-![image](https://github.com/user-attachments/assets/88cdf88f-525c-4805-bd17-2f91c635fa10)
+![image](https://github.com/user-attachments/assets/c70a4291-0811-4c63-9d8a-36154ef8f838)
+![image](https://github.com/user-attachments/assets/a8bdb6ff-f464-489b-bee8-0c851e3c961f)
+![image](https://github.com/user-attachments/assets/246853d0-3e68-45f5-82ae-bdde95be37c8)
 
-![image](https://github.com/user-attachments/assets/2e54e4f9-5097-4094-9b69-9a7d0080f26a)
+![image](https://github.com/user-attachments/assets/7fc1c76a-1d03-48dd-a0ae-3016d3809f10)
+
